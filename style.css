@@ -7,6 +7,11 @@ body {
 	background: #212121;
 }
 
+@font-face {
+	font-family: 'Sevenet7Cyr';
+	src:  url("17679.ttf") format("truetype");
+}
+
 #menu {
 	display: block;
 	width: 400px;
